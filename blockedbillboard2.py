@@ -1,3 +1,4 @@
+# 9/10 test cases
 import sys
 
 sys.stdin = open("billboard.in", "r")
