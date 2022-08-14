@@ -1,5 +1,5 @@
 # Source: https://usaco.guide/general/io
-
+# this program exceeds time limit on test cases 5 and onwards; efficient solution also posted
 import sys
 import string
 import itertools
