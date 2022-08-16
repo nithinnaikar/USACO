@@ -1,4 +1,5 @@
 # Source: https://usaco.guide/general/io
+# 10/10 test cases passed
 
 import sys
 import itertools
