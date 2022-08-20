@@ -1,5 +1,5 @@
 # Source: https://usaco.guide/general/io
-
+# Program only passes 5/10 test cases due to TLE. Efficient solution also posted. 
 import sys
 
 sys.stdin = open("balancing.in", "r")
